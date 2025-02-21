@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Azevedo de Souza Leão, tenho 25 anos e sou natural de Recife-PE. Concluí Análise e Desenvolvimento de Sistemas na Universidade Tiradente. Sou apaixonado por tecnologia, Atualmente, foco no desenvolvimento de aplicações escaláveis, combinando back-end robusto com Java e Spring Boot e front-end dinâmico com Angular e React. Tenho conhecimento em bancos relacionais e não relacionais (PostgreSQL e MongoDB) e deploy em Azure, garantindo alta disponibilidade e performance.
+Me chamo Guilherme Azevedo de Souza Leão, tenho 25 anos e sou natural de Recife-PE. Sou formado em Análise e Desenvolvimento de Sistemas pela Universidade Tiradentes. Apaixonado por tecnologia, foco no desenvolvimento de aplicações escaláveis, combinando um back-end robusto com Java e Spring Boot e um front-end dinâmico com Angular e React. Tenho conhecimento em bancos de dados relacionais e não relacionais, como PostgreSQL e MongoDB, além de experiência com deploy na Azure, garantindo alta disponibilidade e performance.
 
 <p align="left">
         <a href="https://www.linkedin.com/in/guilherme-azevedo-dev/">
