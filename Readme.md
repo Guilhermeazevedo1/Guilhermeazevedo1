@@ -2,7 +2,7 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Azevedo de Souza Leão, tenho 25 anos e sou natural de Recife-PE. Sou um desenvolvedor Full Stack formado Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento sólido em Java e Spring Boot para construção de APIs escaláveis, além de TypeScript  e Angular, que utilizo para criar interfaces dinâmicas e intuitivas.
+Me chamo Guilherme Azevedo de Souza Leão, tenho 25 anos e sou natural de Recife-PE. Sou um desenvolvedor Full Stack formado Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento em Java e Spring Boot para construção de APIs escaláveis, além de TypeScript  e Angular, que utilizo para criar interfaces dinâmicas e intuitivas.
 
 Trabalho com bancos de dados SQL (PostgreSQL) e NoSQL (MongoDB), garantindo modelagem eficiente e desempenho otimizado. Atualmente, estou me aprofundando em testes automatizados com JUnit e Mockito, além de explorar banco de dados em nuvem (Azure e AWS) e iniciando meus estudos em Docker para containerização de aplicações.
 
