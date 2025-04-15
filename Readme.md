@@ -2,9 +2,11 @@
 
 **`Desenvolvedor FullStack`**
 
-Me chamo Guilherme Azevedo de Souza Leão, tenho 25 anos e sou natural de Recife-PE. Sou um desenvolvedor Full Stack formado Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento em Java e Spring Boot para construção de APIs escaláveis, além de TypeScript  e Angular, que utilizo para criar interfaces dinâmicas e intuitivas.
+Me chamo Guilherme Azevedo de Souza Leão, tenho 25 anos e sou natural de Recife-PE. Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento em Java, Spring Boot e Nest.js para construção de APIs escaláveis, além de TypeScript, React e Angular, que utilizo para criar interfaces dinâmicas e intuitivas. Também trabalho com Node.js e Express para o desenvolvimento de soluções backend ágeis e eficientes.
 
-Trabalho com bancos de dados SQL (PostgreSQL) e NoSQL (MongoDB), garantindo modelagem eficiente e desempenho otimizado. Atualmente, estou me aprofundando em testes automatizados com JUnit e Mockito, além de explorar banco de dados em nuvem (Azure e AWS) e iniciando meus estudos em Docker para containerização de aplicações.
+Trabalho com bancos de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB), garantindo modelagem eficiente e desempenho otimizado. Tenho experiência no desenvolvimento de APIs REST e já atuei em projetos acadêmicos e profissionais, incluindo soluções de controle financeiro e aplicativos voltados à gestão de informações de pets. Na Harena Tech, desenvolvi o front-end de um site de cardápio digital e da área de cliente (backoffice), utilizando React e TypeScript.
+
+Atualmente, estou me aprofundando em testes automatizados com JUnit e Mockito, além de explorar banco de dados em nuvem (Azure e AWS) e iniciando meus estudos em Docker para containerização de aplicações. Tenho familiaridade com metodologias ágeis e foco em entregar valor contínuo, sempre em busca de aprimoramento técnico e boas práticas de desenvolvimento.
 
 <p align="left">
         <a href="https://www.linkedin.com/in/guilherme-azevedo-dev/">
