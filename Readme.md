@@ -1,4 +1,6 @@
-<h1 align="center">👩🏻‍💻 Guilherme Azevedo</h1>
+# 👩🏻‍💻 Guilherme Azevedo
+
+**`Desenvolvedor FullStack`**
 
 Me chamo Guilherme Azevedo de Souza Leão. Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento em Java e Spring Boot para construção de APIs escaláveis, além de TypeScript, React e Angular, que utilizo para criar interfaces dinâmicas e intuitivas.
 
@@ -6,49 +8,38 @@ Trabalho com bancos de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB), garantin
 
 Atualmente, estou me aprofundando em testes automatizados com JUnit e Mockito, além de explorar banco de dados em nuvem (Azure e AWS) e iniciando meus estudos em Docker para containerização de aplicações. Tenho familiaridade com metodologias ágeis e foco em entregar valor contínuo, sempre em busca de aprimoramento técnico e boas práticas de desenvolvimento.
 
-###
+<p align="left">
+        <a href="https://www.linkedin.com/in/guilherme-azevedo-dev/">
+        <img 
+            alt="Likedin" 
+            title="Acesse" 
+            src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"
+        />
+        </a>
+</p>
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="40" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="40" alt="spring logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="40" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" height="40" alt="mongodb logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="40" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/angularjs/angularjs-original.svg" height="40" alt="angularjs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="40" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/materialui/materialui-original.svg" height="40" alt="materialui logo"  />
-</div>
+---
 
-###
+### 💻 Linguagens e Tecnologias
 
-<div align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-</div>
+<img align="left" lt="Java" title="Java" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original-wordmark.svg" />
+<img align="left" lt="Spring" title="Spring" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/spring/spring-original-wordmark.svg" />
+<img align="left" lt="Postegres" title="Postegres" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-plain-wordmark.svg" />
+<img align="left" lt="MongoDB" title="MongoDB" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-plain-wordmark.svg" />
+<img align="left" lt="TypeScript" title="TypeScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
+<img align="left" lt="Angular" title="Angular" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
+<img align="left" lt="React" title="React" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
+<img align="left" lt="MUI" title="MUI" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" />
 
-###
 
-###
+<br/>
+<br/>
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=Guilhermeazevedo1&locale=en&mode=daily&theme=dracula&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph"  />
-  <img src="https://github-profile-trophy.vercel.app?username=Guilhermeazevedo1&theme=dracula&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph"  />
-</div>
+### 📊 Estatísticas
 
-###
+<p>
+  <img align="left" alt="GitHub Stats" height="200" style="padding-right: 10px;" src="https://github-readme-stats.vercel.app/api?username=Guilhermeazevedo1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br"/>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Guilhermeazevedo1/Guilhermeazevedo1/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Guilhermeazevedo1/Guilhermeazevedo1/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/Guilhermeazevedo1/Guilhermeazevedo1/output/pacman-contribution-graph.svg">
-</picture>
+<img align="left" alt="GitHub Stats" height="200" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeazevedo1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9"/>
 
-###
+</p>
