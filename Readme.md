@@ -27,7 +27,6 @@ Atualmente, estou me aprofundando em testes automatizados com JUnit e Mockito, a
 <img align="left" lt="TypeScript" title="TypeScript" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" />
 <img align="left" lt="Angular" title="Angular" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" />
 <img align="left" lt="React" title="React" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" />
-<img align="left" lt="MUI" title="MUI" width="50px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/materialui/materialui-plain.svg" />
 
 
 <br/>
