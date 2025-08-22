@@ -1,6 +1,6 @@
 # 👩🏻‍💻 Guilherme Azevedo
 
-Me chamo Guilherme Azevedo de Souza Leão. Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento em Java e Spring Boot para construção de APIs escaláveis, Conhecimento em Java legado na estrutura Jakarta EE, além de TypeScript, React e Angular, que utilizo para criar interfaces dinâmicas e intuitivas.
+Me chamo Guilherme Azevedo de Souza Leão. Sou um desenvolvedor Full Stack formado em Análise e Desenvolvimento de Sistemas, com experiência no desenvolvimento de aplicações web e backend robustas. Tenho conhecimento em Java e Spring Boot para construção de APIs escaláveis, Conhecimento em Java legado na estrutura Jakarta EE e JSF com prime faces, além de TypeScript, React e Angular, que utilizo para criar interfaces dinâmicas e intuitivas.
 
 Trabalho com bancos de dados SQL (PostgreSQL, MySQL) e NoSQL (MongoDB), garantindo modelagem eficiente e desempenho otimizado. Tenho experiência no desenvolvimento de APIs REST e já atuei em projetos acadêmicos e profissionais, incluindo soluções de controle financeiro e aplicativos voltados à gestão de informações de pets. Na Harena Tech, desenvolvi o front-end de um site de cardápio digital e da área de cliente (backoffice), utilizando React e TypeScript.
 
