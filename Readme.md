@@ -42,7 +42,7 @@ Atualmente, estou me especializando em **IA na nuvem (Azure AI, AWS SageMaker)**
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeazevedo1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
 
 ---
-
+<!--
 ### 🚀 Projetos em Destaque
 
 - 🧩 **[Detecção de Objetos com YOLOv8](#)** — Modelo para reconhecimento em tempo real usando Ultralytics YOLOv8 e OpenCV.  
@@ -51,6 +51,4 @@ Atualmente, estou me especializando em **IA na nuvem (Azure AI, AWS SageMaker)**
 - 💬 **[Chatbot com LLM e LangChain](#)** — Assistente baseado em LLM com recuperação de contexto e integração com APIs externas.
 
 ---
-
-💡 *“A inteligência artificial não substitui a criatividade humana — ela a potencializa.”*  
-— Guilherme Azevedo
+-->
