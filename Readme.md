@@ -1,54 +1,112 @@
 # 🤖 Guilherme Azevedo
 
-Me chamo **Guilherme Azevedo de Souza Leão**, sou **Desenvolvedor e Pesquisador em Visão Computacional e Inteligência Artificial Generativa (GenAI)**, formado em **Análise e Desenvolvimento de Sistemas**. Tenho experiência na construção de modelos de IA para análise de imagens, aprendizado profundo e automação inteligente, aplicando técnicas de **Machine Learning**, **Deep Learning** e **Computer Vision**.  
+Me chamo **Guilherme Azevedo de Souza Leão**, sou **Engenheiro de IA (GenAI) e Pesquisador**, com foco em **LLMs, arquitetura de agentes e sistemas inteligentes orientados à automação e tomada de decisão**.
 
-Atuo com frameworks modernos como **TensorFlow**, **PyTorch**, **OpenCV** e **Hugging Face Transformers**, desenvolvendo soluções que vão desde **classificação e detecção de objetos** até **geração de imagens e processamento de linguagem natural (NLP)**.  
+Atualmente atuo na **Deloitte**, desenvolvendo soluções baseadas em **IA Generativa**, com experiência prática em **colocar agentes em produção**, trabalhando com **orquestração de fluxos, observabilidade, segurança e otimização de performance**.
 
-Também possuo base sólida em **desenvolvimento backend e web**, com conhecimento em **Java (Spring Boot)**, **TypeScript**, **React** e **Angular**, o que me permite integrar modelos de IA em aplicações completas e escaláveis.  
+Sou formado em **Análise e Desenvolvimento de Sistemas** e atualmente mestrando em **Informática Aplicada (UFRPE)**, pesquisando o uso de **IA Generativa na identificação automática de test smells**.
 
-Atualmente, estou me especializando em **IA na nuvem (Azure AI, AWS SageMaker)** e **deploy de modelos com Docker e APIs REST**, além de estudar técnicas avançadas de **fine-tuning de LLMs** e **modelos de difusão**. Tenho interesse em pesquisa aplicada à **Visão Computacional**, especialmente em **reconhecimento de padrões, segmentação de imagens e IA generativa multimodal**.  
-
-[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilherme-azevedo-dev/)
+Tenho background em desenvolvimento fullstack, o que me permite construir soluções completas — desde a arquitetura de agentes até sua integração com sistemas reais.
 
 ---
 
-### 🧠 Áreas de Atuação
+## 🚀 O que eu faço hoje
 
-- Visão Computacional (OpenCV, YOLO, Mediapipe, Segment Anything)  
-- Machine Learning e Deep Learning (TensorFlow, PyTorch, Scikit-learn)  
-- IA Generativa (LLMs, Stable Diffusion, LangChain, Hugging Face)  
-- NLP — Processamento de Linguagem Natural  
-- Integração de modelos IA com Web e APIs  
-- Banco de Dados (PostgreSQL, MongoDB)  
-- Deploy e MLOps (Docker, Azure AI, AWS SageMaker)
-
----
-
-### 💻 Linguagens e Tecnologias
-
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tensorflow/tensorflow-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pytorch/pytorch-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/opencv/opencv-original-wordmark.svg" width="100" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original-wordmark.svg" width="100" />
-</p>
+* 🤖 Desenvolvimento de **agentes inteligentes com LLMs**
+* 🔗 Arquitetura de sistemas com **LangGraph (grafos e subgrafos)**
+* 🧠 Engenharia de prompts com foco em **robustez e segurança**
+* 🛡️ Mitigação de **prompt injection, prompt leak e falhas de comportamento**
+* 📊 Observabilidade de LLMs com **LangSmith e Arize AI**
+* ⚙️ Automação de processos com **n8n e agentes integrados**
+* 📉 Otimização de **custo, latência e consumo de tokens**
+* 🧪 Análise de logs, tracing e comportamento de agentes
 
 ---
 
-### 📊 Estatísticas
+## 🧠 Áreas de Atuação
 
-![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilhermeazevedo1&show_icons=true&theme=tokyonight&include_all_commits=true&locale=pt-br)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeazevedo1&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9)
+* IA Generativa (LLMs, agentes, automação inteligente)
+* Arquitetura de agentes (LangGraph, workflows complexos)
+* Engenharia de prompts e segurança de LLMs
+* Observabilidade e monitoramento de sistemas de IA
+* Integração de IA com sistemas corporativos
+* Backend e APIs para aplicações com IA
 
 ---
+
+## 🛠️ Stack Principal
+
+**GenAI & Agentes**
+
+* LLMs, LangGraph, LangChain
+
+**Observabilidade & Qualidade**
+
+* LangSmith, Arize AI
+
+**Automação**
+
+* n8n
+
+**Backend**
+
+* Java (Spring Boot), APIs REST
+
+**Frontend**
+
+* React, TypeScript
+
+**Dados**
+
+* PostgreSQL, MongoDB
+
+---
+
+## 🎓 Pesquisa
+
+Atualmente desenvolvendo pesquisa em:
+
+> **Uso de IA Generativa para identificação automática de test smells em projetos de software**
+
+Foco em:
+
+* Aplicação de LLMs em engenharia de software
+* Análise semântica de código de testes
+* Automação de diagnóstico de qualidade de software
+
+---
+
+## 🌐 Conecte-se comigo
+
+[![Linkedin Badge](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/guilherme-azevedo-dev/)
+
+---
+
+## 📊 Estatísticas
+
+![Guilherme's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Guilhermeazevedo1\&show_icons=true\&theme=tokyonight\&include_all_commits=true\&locale=pt-br)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Guilhermeazevedo1\&theme=tokyonight\&layout=compact\&custom_title=Tecnologias\&langs_count=9)
+
+---
+
+## 💡 Sobre mim
+
+Gosto de trabalhar na interseção entre **engenharia de software e inteligência artificial**, principalmente em problemas que envolvem:
+
+* Sistemas inteligentes em produção
+* Automação de decisões
+* Escalabilidade de soluções com IA
+* Redução de custo e aumento de eficiência
+
+Estou sempre buscando evoluir como engenheiro, com foco em construir soluções que realmente gerem impacto.
+
+---
+
 <!--
-### 🚀 Projetos em Destaque
+## 🚀 Projetos em Destaque (em atualização)
 
-- 🧩 **[Detecção de Objetos com YOLOv8](#)** — Modelo para reconhecimento em tempo real usando Ultralytics YOLOv8 e OpenCV.  
-- 🖼️ **[Geração de Imagens com Stable Diffusion](#)** — Projeto para criação de imagens via prompt textual usando Diffusers da Hugging Face.  
-- 🧠 **[Classificador de Emoções Faciais](#)** — Rede neural convolucional (CNN) para reconhecimento de expressões humanas.  
-- 💬 **[Chatbot com LLM e LangChain](#)** — Assistente baseado em LLM com recuperação de contexto e integração com APIs externas.
-
----
+Em breve adicionarei projetos focados em:
+- Agentes com LangGraph
+- Observabilidade de LLMs
+- Automação com n8n
 -->
